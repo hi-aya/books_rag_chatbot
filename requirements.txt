@@ -1,0 +1,8 @@
+sentence-transformers>=2.2.2
+numpy>=1.26
+scikit-learn>=1.4.2
+pymupdf>=1.23
+tqdm>=4.66
+
+openai>=1.58.0
+python-dotenv>=1.0.1
